@@ -1,2 +1,2 @@
 # MakerSimpleHTML
-maker of simple html on javascript
+maker of simple html on javascript.
